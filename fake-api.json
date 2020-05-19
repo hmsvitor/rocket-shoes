@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "MadRats OldSchool - Black",
+      "price": 35,
+      "image": "https://static.netshoes.com.br/produtos/tenis-mad-rats-old-school/06/DBC-0009-006/DBC-0009-006_zoom1.jpg?ts=1587511693&ims=544x"
+    },
+    {
+      "id": 2,
+      "title": "MadRats OldSchool - Red",
+      "price": 25,
+      "image": "https://static.netshoes.com.br/produtos/tenis-mad-rats-old-school/16/DBC-0009-016/DBC-0009-016_zoom1.jpg?ts=1588740650&ims=544x"
+    },
+    {
+      "id": 3,
+      "title": "MadRats OldSchool - Checkered",
+      "price": 30,
+      "image": "https://static.netshoes.com.br/produtos/tenis-mad-rats-old-school/28/DBC-0009-028/DBC-0009-028_zoom1.jpg?ts=1587511691&ims=544x"
+    },
+    {
+      "id": 5,
+      "title": "MadRats OldSchool - Banana",
+      "price": 30,
+      "image": "https://static.netshoes.com.br/produtos/tenis-mad-rats-old-school/74/DBC-0009-274/DBC-0009-274_zoom1.jpg?ts=1588740649&ims=544x"
+    },
+    {
+      "id": 6,
+      "title": "MadRats OldSchool - Grey",
+      "price": 25,
+      "image": "https://static.netshoes.com.br/produtos/tenis-mad-rats-old-school/79/DBC-0009-879/DBC-0009-879_zoom1.jpg?ts=1587511564&ims=544x"
+    },
+    {
+      "id": 4,
+      "title": "MadRats OldSchool - Camo",
+      "price": 40,
+      "image": "https://static.netshoes.com.br/produtos/tenis-mad-rats-old-school/72/DBC-0009-572/DBC-0009-572_zoom1.jpg?ts=1587511683&ims=544x"
+    }
+  ]
+}
